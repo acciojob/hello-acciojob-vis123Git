@@ -1,11 +1,11 @@
 
 .accio{
-	width:150px;
+	height:150px;
 	background-color:#000000;
 }
 
 .hello-accio{
-	left-margin:32px;
+	margin-left:32px;
 	color:#ffffff;
 	padding:10px;
 }
